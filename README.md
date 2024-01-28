@@ -6,7 +6,7 @@ This Python script interacts with the Google Sheets API to calculate student sta
 
 1. Clone the repository:
 
-git clone https://github.com/tithalss/gsheet-student-status-manager/
+```git clone https://github.com/tithalss/gsheet-student-status-manager/```
 
 2. Install the required dependencies:
 
