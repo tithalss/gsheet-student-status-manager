@@ -10,7 +10,7 @@ This Python script interacts with the Google Sheets API to calculate student sta
 
 2. Install the required dependencies:
 
-    pip install -r requirements.txt
+    ```pip install -r requirements.txt```
 
 ## Usage
 
